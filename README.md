@@ -1,2 +1,2 @@
 # Reduxx
-author - shubham
+author - Aaryan
